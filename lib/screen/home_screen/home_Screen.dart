@@ -1,6 +1,6 @@
 import 'package:bmi_calc/res/asset.dart';
 import 'package:bmi_calc/res/util.dart';
-import 'package:bmi_calc/screen/home_screen/container.dart';
+import 'package:bmi_calc/widget/home_screen/container.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {

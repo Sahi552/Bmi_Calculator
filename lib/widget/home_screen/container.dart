@@ -139,5 +139,3 @@ class _ContainerValueState extends State<ContainerValue> {
     );
   }
 }
-
-class Text_field_border {}
